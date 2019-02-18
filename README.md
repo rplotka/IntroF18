@@ -1,5 +1,5 @@
-# IntroF18
+# Intro GIT Demo
 
-Fall 2018 Intro Repo - first line
+Intro Repo - first line
 
 Here is the Final Test line
