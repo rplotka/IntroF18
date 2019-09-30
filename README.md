@@ -14,4 +14,6 @@ Updated F19
 * Using the GUIs is much easier for most folks.
 * create your account on github and create your first repo
 
+Changing in class on Sept 30
+
 Here is the Final Test line
