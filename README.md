@@ -10,6 +10,11 @@ Updated S19
 * Using GIT is sometimes easier using a GUI 
   * [GitHub Desktop GUI](https://desktop.github.com/) 
   * [GitKraken](https://www.gitkraken.com/)  
+Updated F19
+* Using the GUIs is much easier for most folks.
+* create your account on github and create your first repo
+
+Changing in class on Sept 30
 
 Updated F19
 * Using the GUIs is much easier for most folks.
