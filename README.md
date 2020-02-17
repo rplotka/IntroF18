@@ -20,4 +20,7 @@ Updated F19
 * Using the GUIs is much easier for most folks.
 * create your account on github and create your first repo
 
+Updated S20
+* This is being updated using VS Code and GitKraken - Both Free!
+
 Here is the Final Test line
