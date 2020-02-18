@@ -22,5 +22,7 @@ Updated F19
 
 Updated S20
 * This is being updated using VS Code and GitKraken - Both Free!
+- I also added some text to file1
+
 
 Here is the Final Test line
