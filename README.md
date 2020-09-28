@@ -24,5 +24,7 @@ Updated S20
 * This is being updated using VS Code and GitKraken - Both Free!
 - I also added some text to file1
 
+Updated for F20
+Made a couple of changes
 
 Here is the Final Test line
