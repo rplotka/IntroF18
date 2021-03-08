@@ -28,5 +28,6 @@ Updated for F20
 Made a couple of changes
 
 Let's add some stuff for the Github class for S21
+- making a change in class
 
 Here is the Final Test line
